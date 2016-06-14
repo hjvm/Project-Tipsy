@@ -4,7 +4,7 @@ Tip calculator: first iOS app
 
 "Here's a Tip..." is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Hector Vazquez
 
 Time spent: 4 hours spent in total
 
@@ -45,7 +45,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright:
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
